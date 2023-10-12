@@ -6,7 +6,7 @@ dependencies:
   - python
   - numpy
   - matplotlib
-  - spoisson
-#  - pip
-#  - pip:
+  - pip
+  - pip:
+     - spoisson
 #    - notebook-as-pdf==0.5.0
