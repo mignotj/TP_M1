@@ -8,5 +8,5 @@ dependencies:
   - matplotlib
   - pip
   - pip:
-     - spoisson
+     - poisson
 #    - notebook-as-pdf==0.5.0
