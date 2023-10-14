@@ -7,7 +7,6 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
-  - spoisson
 #  - pip
 #  - pip:
 #     - poisson
